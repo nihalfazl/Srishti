@@ -177,45 +177,7 @@ srishti/
 - **db.sqlite3:** SQLite database file used for local development.
 - **requirements.txt:** Contains all Python dependencies required to run the project.
 
-## 🖼️ Screenshots
 
-Add project screenshots in this section before submission.
-
-### Home Page
-
-```text
-Insert screenshot of the home page here.
-```
-
-### Artist Listing Page
-
-```text
-Insert screenshot of artist browsing and filtering here.
-```
-
-### Artist Dashboard
-
-```text
-Insert screenshot of the artist dashboard here.
-```
-
-### Booking Page
-
-```text
-Insert screenshot of the booking form here.
-```
-
-### Chat Page
-
-```text
-Insert screenshot of the messaging interface here.
-```
-
-### Admin Panel
-
-```text
-Insert screenshot of the Django admin panel here.
-```
 
 ## 🗄️ Database Design
 
@@ -329,6 +291,7 @@ After starting the development server, users can access the application from `ht
 
 **Project Name:** Srishti - Artist Booking and Portfolio Platform  
 **Developed By:** Nihal K 
+                  Nayanendhu CU
 
 
 ## 📌 Project Status
