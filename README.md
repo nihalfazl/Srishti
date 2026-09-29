@@ -290,7 +290,7 @@ After starting the development server, users can access the application from `ht
 ## 👩‍💻 Author
 
 **Project Name:** Srishti - Artist Booking and Portfolio Platform  
-**Developed By:** Nihal K 
+**Developed By:** Nihal K and 
                   Nayanendhu CU
 
 
